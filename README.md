@@ -11,7 +11,7 @@
 1. Chandra AL, Desai SV, Balasubramanian VN, Ninomiya S, Guo W. Active learning with point supervision for cost-effective panicle detection in cereal crops. Plant Methods. BioMed Central; 2020;16:1–16. [Available here](https://doi.org/10.1186/s13007-020-00575-8)
 1. David,E., Madec,S., Sadeghi-Tehran, P., Aasen,H., Zheng,B., Liu,S., Kirchgessner, N., Ishikawa, G., Nagasawa, K., Badhon,M.A., Pozniak, C., Solan, B., Hund, A., Chapman, S.C., Baret, F., Stavness, I., Guo, W.,( Global Wheat Head Detection (GWHD) Dataset: A Large and Diverse Dataset of High-Resolution RGB-Labelled Images to Develop and Benchmark Wheat Head Detection Methods. Plant Phenomics. 2020;2020: 1–12. [Available here](https://doi.org/10.34133/2020/3521852)
 ### Resources 
-1. Global Wheat Head Challenge (Part of CVPPP2020) [Kaggle competition](https://www.kaggle.com/c/global-wheat-detection) 
+1. Global Wheat Head Challenge (Part of [CVPPP2020](https://www.plant-phenotyping.org/CVPPP2020)) [Kaggle competition](https://www.kaggle.com/c/global-wheat-detection) 
 1. Global WHEAT Dataset [Official Webpage](http://www.global-wheat.com/)
 
 ### Slides for today
