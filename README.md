@@ -13,6 +13,8 @@
 ### Resources 
 1. Global Wheat Head Challenge (Part of [CVPPP2020](https://www.plant-phenotyping.org/CVPPP2020)) [Kaggle Competition](https://www.kaggle.com/c/global-wheat-detection) 
 1. Global WHEAT Dataset [Official Webpage](http://www.global-wheat.com/)
+### Competition 
+1. Global Wheat Challenge 2020(New!) - Localization and counting [Codalab](https://competitions.codalab.org/competitions/27449)
 
 ### Slides for today
 Download [here]().
